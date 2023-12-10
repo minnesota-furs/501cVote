@@ -5,6 +5,12 @@
 *~
 .idea
 
-# standard files by pc/mac that not needed
+# Windows
+Thumbs.db
+desktop.ini
+
+# OS X
 .DS_Store
-thumbs.db
+.Spotlight-V100
+.Trashes
+._*
